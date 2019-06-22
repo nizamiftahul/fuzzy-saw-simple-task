@@ -40,9 +40,9 @@
             <!-- Logo -->
             <a href="/assets/AdminLTE-2.4.10/index2.html" class="logo">
                 <!-- mini logo for sidebar mini 50x50 pixels -->
-                <span class="logo-mini"><b>L</b>22</span>
+                <span class="logo-mini"><b>F</b>SAW</span>
                 <!-- logo for regular state and mobile devices -->
-                <span class="logo-lg"><b>RSLombok</b>22</span>
+                <span class="logo-lg"><b>Fuzzy</b>SAW</span>
             </a>
             <!-- Header Navbar: style can be found in header.less -->
             <nav class="navbar navbar-static-top">
